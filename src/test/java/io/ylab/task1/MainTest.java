@@ -1,3 +1,5 @@
+package io.ylab.task1;
+
 import io.ylab.task1.Main;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
